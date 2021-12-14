@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApp", "ConsoleApp17\HelloWorldApp.csproj", "{F7298807-C195-458A-BE90-183983469956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteWriteLineConsoleApp", "WriteWriteLineConsoleApp\WriteWriteLineConsoleApp.csproj", "{60A826B1-AB09-4FC8-BCA0-7FBDB14FC00C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7298807-C195-458A-BE90-183983469956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7298807-C195-458A-BE90-183983469956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7298807-C195-458A-BE90-183983469956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7298807-C195-458A-BE90-183983469956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A826B1-AB09-4FC8-BCA0-7FBDB14FC00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A826B1-AB09-4FC8-BCA0-7FBDB14FC00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A826B1-AB09-4FC8-BCA0-7FBDB14FC00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A826B1-AB09-4FC8-BCA0-7FBDB14FC00C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11246F49-AE72-4752-B16C-90C6EA1E64B7}
+	EndGlobalSection
+EndGlobal

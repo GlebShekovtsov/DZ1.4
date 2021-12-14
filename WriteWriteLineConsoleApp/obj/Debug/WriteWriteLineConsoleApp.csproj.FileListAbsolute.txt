@@ -1,0 +1,6 @@
+C:\Users\Gleb\source\repos\HelloConsoleApp\WriteWriteLineConsoleApp\bin\Debug\WriteWriteLineConsoleApp.exe.config
+C:\Users\Gleb\source\repos\HelloConsoleApp\WriteWriteLineConsoleApp\bin\Debug\WriteWriteLineConsoleApp.exe
+C:\Users\Gleb\source\repos\HelloConsoleApp\WriteWriteLineConsoleApp\bin\Debug\WriteWriteLineConsoleApp.pdb
+C:\Users\Gleb\source\repos\HelloConsoleApp\WriteWriteLineConsoleApp\obj\Debug\WriteWriteLineConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\HelloConsoleApp\WriteWriteLineConsoleApp\obj\Debug\WriteWriteLineConsoleApp.exe
+C:\Users\Gleb\source\repos\HelloConsoleApp\WriteWriteLineConsoleApp\obj\Debug\WriteWriteLineConsoleApp.pdb
